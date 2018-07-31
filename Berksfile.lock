@@ -1,0 +1,11 @@
+DEPENDENCIES
+  nginx
+    git: git@github.com:JRenz12/sparta_global_nginxpipeline.git
+    revision: ec30217b4483c58a04a9d9e8544ba171b12b926b
+  python
+    git: git@github.com:JRenz12/sparta_global_pythonpipeline.git
+    revision: ed606e1dc90b9e77fb9b51c9d23a1a91414c1c47
+
+GRAPH
+  nginx (0.3.0)
+  python (0.3.0)
